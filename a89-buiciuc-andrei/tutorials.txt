@@ -1,0 +1,12 @@
+C++ Programming,Mike Dane,40,26,402,https://www.youtube.com/watch?v=raZSmcariyU
+POINTERS in C++,The Cherno,16,58,689,https://www.youtube.com/watch?v=DTxHyVn0ODg
+Stack vs Heap Memory in C++,The Cherno,19,30,1000,https://www.youtube.com/watch?v=wJ1L2nSIV1s
+C++ Tutorial 2020,Derek Banas,22,51,560,https://www.youtube.com/watch?v=6y0bp-mnYU0
+OOP in 7 minutes,Mosh,7,33,800,https://www.youtube.com/watch?v=pTB0EiLXUC8
+What Are Pointers?,javidx9,41,54,773,https://www.youtube.com/watch?v=iChalAKXffs
+Networking in C++,javidx9,58,17,535,https://www.youtube.com/watch?v=2hNdkYInj4g
+Inheritance in OOP C++,Apna College,8,44,434,https://www.youtube.com/watch?v=7ZfEp71tIec
+Polymorphism in C++,Apna College,10,8,303,https://www.youtube.com/watch?v=F5PbnZkHqmg
+A Tour of Modern C++,JetBrainsTV,5,45,621,https://www.youtube.com/watch?v=iWvcoIKSaoc
+Hello,World,10,10,100,https://www.google.ro/
+Hello,Worldd,10,10,100,https://www.google.ro/
